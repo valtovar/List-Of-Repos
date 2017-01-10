@@ -1,5 +1,5 @@
 # List-Of-Repos
-This is a list of forked repos.  It includes repos of game engines, graphics libraries, physics frameworks and web development.
+This is a list of forked repos.  It includes repos of game engines, graphics libraries, physics frameworks and web development. Like GitHub doesn't support folders, I had to create "new companies" to group these repos by "categories" like "Game Engines", "Frameworks" and **"Libraries"**sadf
 
 Game Engines:
 * Link: https://github.com/ValtoGameEngines
